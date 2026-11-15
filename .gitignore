@@ -1,0 +1,12 @@
+config.properties
+
+/target/
+/build/
+*.class
+*.log
+
+/.idea/
+*.iml
+.nb-cache/
+nbproject/private/
+.vscode/
